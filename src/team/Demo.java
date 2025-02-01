@@ -9,4 +9,12 @@ public class Demo {
 		
 	}
 
+
+		public static void test(String[] args) {
+		
+		int bat = 3;
+		int ball = 2;
+		System.out.println(bat + ball);
+		
+	}
 }
