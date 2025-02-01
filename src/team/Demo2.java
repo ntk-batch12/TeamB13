@@ -28,7 +28,12 @@ public class Demo2 {
 			System.out.println(bat + ball);
 		System.out.println(bat + ball);
 		System.out.println(bat + ball);
-		System.out.println(bat + ball);
+		System.out.println(bat + ball);//pull practice team 1
+//pull practice team 1
+//pull practice team 1
+//pull practice team 1
+//pull practice team 1
+
 		System.out.println(bat + ball);
 		System.out.println(bat + ball);
 		System.out.println(bat + ball);	System.out.println(bat + ball);
