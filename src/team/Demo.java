@@ -6,6 +6,10 @@ public class Demo {
 		int bat = 3;
 		int ball = 2;
 		System.out.println(bat + ball);
+		System.out.println(bat + ball);
+		System.out.println(bat + ball);
+		System.out.println(bat + ball);
+		System.out.println(bat + ball);
 		
 	}
 
